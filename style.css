@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(skyblue,pink);
+}
+#neel{
+    width:200px;
+    height:200px;
+    left:200px;
+    top:200px;
+    
+}
+h1{
+    text-align:center
+    font-family:cursive;
+        font-size:40px;
+}
+h2{
+    text-align:center
+    line-height:1.2;
+    font-family:fantasy;
+    font-size:16px;
+}
+
